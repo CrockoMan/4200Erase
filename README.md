@@ -3,5 +3,5 @@
 Реализован визуальный котроль успешного сброса счётчиков</br>
 Пины микроконтроллера SCL SDA подключить к пинам чипа картриджа SCL SDA</br>
 Возможно использование без индикаторов визуального подтверждения</br>
-(https://github.com/CrockoMan/4200Erase/blob/main/R-415.gif)</br>
+[Схема](https://github.com/CrockoMan/4200Erase/blob/main/R-415.gif)</br>
 Автор: [К.Гурашкин](<https://github.com/CrockoMan>)
